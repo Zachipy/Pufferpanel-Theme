@@ -9,7 +9,7 @@ PufferPanel is a simple server management panel. But I didn't find any themes fo
 
 ## Features
 * ✏️ **Well designed**
-* 🌓 **Dark and light modes**
+* 🌓 **Dark and no light modes**
 * 🎛 **Customized**
 * 🆓 **Free**
 
@@ -24,4 +24,4 @@ PufferPanel is a simple server management panel. But I didn't find any themes fo
 > PufferPanel [donation](https://opencollective.com/pufferpanel) <br>
 > PufferPanel [discord server](https://discord.gg/v8dz49e) <br>
 * Themes<br>
-> My discord: infinity#4596
+> My discord: Zachi.py#4984
