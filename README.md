@@ -9,7 +9,7 @@ PufferPanel is a simple server management panel. But I didn't find any blue them
 
 ## Features
 * ✏️ **Well designed**
-* 🌑 **Dark **
+* 🌑 **Dark**
 * 🎛 **Customized**
 * 🆓 **Free**
 
