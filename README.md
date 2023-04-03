@@ -5,7 +5,7 @@
 ## Why?
 
 BLUEE!!!!
-PufferPanel is a simple server management panel. But I didn't find any themes for it so I create this repo. to share with you some themes that you can use for free!
+PufferPanel is a simple server management panel. But I didn't find any blue theme for it so I create this repo. to share with you some themes that you can use for free!
 
 ## Features
 * ✏️ **Well designed**
